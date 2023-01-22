@@ -26,7 +26,7 @@
 <b>Hobbys:</b> Nuvem, jogos e desenvolvimento de software
 </li>
 <li>
-<b>Trabalhando:</b> Técnico de suporte no Instituto Nacional de Telecomunicações - Inatel
+<b>Trabalho:</b> Técnico de suporte no Instituto Nacional de Telecomunicações - Inatel
 
 </li>
 
