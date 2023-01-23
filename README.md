@@ -16,14 +16,14 @@
 <p> </p>
 
 <li>
-<b>Amo:</b> Animes, jogos e cozinhar!
+<b>Estudando atualmente:</b> Computação em nuvem e Git!
 </li>
 <li>
 <b>Gênero:</b> Masculino
 </li>
 
 <li>
-<b>Hobbys:</b> Nuvem, jogos e desenvolvimento de software
+<b>Hobbys:</b> Jogos, Animes e Desenvolvimento de software aleatório
 </li>
 <li>
 <b>Trabalho:</b> Técnico de suporte no Instituto Nacional de Telecomunicações - Inatel
@@ -52,6 +52,8 @@ Sou ótimo e muito dedicado como suporte técnico, estou ansioso para entrar no 
   <p> </p>
 <h2 align="center">           📝 ~ Contatos ~ 📝</h2>
  <br>
+                  <p>
+ </br>
 <p>
   <div align="center">
 <img src="https://media3.giphy.com/media/1o9Z26h19Ck1cdr1TL/giphy.gif?cid=790b761132ae0e478760bd4c9d5f455af8151cacfe377af4&rid=giphy.gif&ct=g" height="208.5px" align="center">
@@ -64,8 +66,16 @@ Sou ótimo e muito dedicado como suporte técnico, estou ansioso para entrar no 
 
 <div>
 <h2 align="center"> Obrigado por ler! </h2>
+    <h2 align="center"> Meus stats: </h2>
+
+
+<div align="center"><img  src="https://github-readme-stats.vercel.app/api?username=brunoquirino14&&show_icons=true&theme=radical" /><p align="center" >  
+  </a>
+  </p>
+
 <div align="center">
 <img src="https://media4.giphy.com/media/C9GeN0Ft5WLOsW8Kmh/giphy.gif?cid=790b76115d5c5f8237e6bac143161302cfa6fe5e16c927f0&rid=giphy.gif&ct=g""width="390.5px" height="208.5px">
 </div>
 <hr>
 </div>
+
