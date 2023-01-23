@@ -63,15 +63,17 @@ Sou ótimo e muito dedicado como suporte técnico, estou ansioso para entrar no 
 <div>
   <br>
   <br>
+    <p> </p>
+<h2 align="center">Meus stats:</h2>
 
-<div>
-<h2 align="center"> Obrigado por ler! </h2>
-    <h2 align="center"> Meus stats: </h2>
+ 
+
 
 
 <div align="center"><img  src="https://github-readme-stats.vercel.app/api?username=brunoquirino14&&show_icons=true&theme=radical" /><p align="center" >  
   </a>
   </p>
+<h2 align="center"> Obrigado por ler! </h2>
 
 <div align="center">
 <img src="https://media4.giphy.com/media/C9GeN0Ft5WLOsW8Kmh/giphy.gif?cid=790b76115d5c5f8237e6bac143161302cfa6fe5e16c927f0&rid=giphy.gif&ct=g""width="390.5px" height="208.5px">
