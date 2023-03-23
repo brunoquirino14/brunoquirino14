@@ -33,43 +33,6 @@
 <br><br><br>
 </div>
 
-<div>
-<h2 align="center">            ~ 📇 Conhecimentos 📇 ~</h2>
- <br>
-<p>
-  <div align="center">
-<img src="https://media4.giphy.com/media/Yv8R5eJW7geOI4gCay/giphy.gif?cid=790b7611c6b6d6db63e164a30cede1913e4bc6a362657387&rid=giphy.gif&ct=g" "width="390.5px" height="208.5px" align="right">
-  </div>
-</div>
-<div>
-  <br>
- <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
-Sou ótimo e muito dedicado como suporte técnico, estou ansioso para entrar no mercado de desenvolvimento de software e computação em nuvem.
-</p>
-<br>
-  <div>
-  <br>
-  <p> </p>
-<h2 align="center">           📝 ~ Contatos ~ 📝</h2>
- <br>
-                  <p>
- </br>
-<p>
-  <div align="center">
-<img src="https://media3.giphy.com/media/1o9Z26h19Ck1cdr1TL/giphy.gif?cid=790b761132ae0e478760bd4c9d5f455af8151cacfe377af4&rid=giphy.gif&ct=g" height="208.5px" align="center">
-<br>
-  </div>
-</div>
-<div>
-  <br>
-  <br>
-    <p> </p>
-<h2 align="center">Meus stats:</h2>
-
- 
-
-
-
 <div align="center"><img  src="https://github-readme-stats.vercel.app/api?username=brunoquirino14&&show_icons=true&theme=radical" /><p align="center" >  
   </a>
   </p>
