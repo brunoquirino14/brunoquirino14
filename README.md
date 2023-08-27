@@ -16,7 +16,7 @@
 <p> </p>
 
 <li>
-<b>Estudando atualmente:</b> DevOps e computação em nuvem!!
+<b>Estudando atualmente:</b> Java, DevOps e computação em nuvem!!
 </li>
 <li>
 <b>Gênero:</b> Masculino
