@@ -16,14 +16,14 @@
 <p> </p>
 
 <li>
-<b>Estudando atualmente:</b> Java, DevOps e computação em nuvem!!
+<b>Estudando atualmente:</b> Python, inteligência artificial e Frontend!!
 </li>
 <li>
 <b>Gênero:</b> Masculino
 </li>
 
 <li>
-<b>Hobbys:</b> Jogos, Animes e Desenvolvimento de software aleatório
+<b>Hobbys:</b> Jogos, Animes e Desenvolver software com os parças!
 </li>
 <li>
 <b>Trabalho:</b> Técnico de suporte no Instituto Nacional de Telecomunicações - Inatel
