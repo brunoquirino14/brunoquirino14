@@ -16,7 +16,7 @@
 <p> </p>
 
 <li>
-<b>Estudando atualmente:</b> Python, inteligência artificial e Frontend!!
+<b>Estudando atualmente:</b> Java, Cloud Computing e DevOps!!
 </li>
 <li>
 <b>Gênero:</b> Masculino
@@ -26,7 +26,7 @@
 <b>Hobbys:</b> Jogos, Animes e Desenvolver software com os parças!
 </li>
 <li>
-<b>Trabalho:</b> Técnico de suporte no Instituto Nacional de Telecomunicações - Inatel
+<b>Trabalho:</b> Analista de sistemas Ericsson no Instituto Nacional de Telecomunicações - Inatel
 
 </li>
 
